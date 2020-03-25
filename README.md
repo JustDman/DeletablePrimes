@@ -1,0 +1,2 @@
+# DeletablePrimes
+school exercise
